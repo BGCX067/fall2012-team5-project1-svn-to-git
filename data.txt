@@ -1,0 +1,5 @@
+2008 election
+candidate texasvotes alabamavotes
+1 0 0
+Obama 10 15
+Romney 12 25
